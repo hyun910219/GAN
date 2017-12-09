@@ -11,6 +11,7 @@ DCGAN - 진행중
 https://github.com/hyun910219/GAN/blob/master/DCGAN/DCGAN-paper/DCGAN-paper.ipynb
 <img src="./DCGAN/DCGAN-pytorch/generation_animation.gif">
 
-InfoGAN  진행예정
+InfoGAN  - 진행중
+https://github.com/hyun910219/GAN/blob/master/InfoGAN/InfoGAN-paper/InfoGAN-paper.ipynb
 
 <img src="./InfoGAN/generation_animation.gif">
